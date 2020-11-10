@@ -185,6 +185,12 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/IBM/carbon-components)
   | #SCSS
 
+- [**Halfmoon**](https://www.gethalfmoon.com/) - Halfmoon is a front-end framework with a built-in dark mode and full customizability using CSS variables.  
+  ![](https://img.shields.io/github/stars/halfmoonui/halfmoon.svg?style=social&label=Star)
+  [Docs](https://www.gethalfmoon.com/docs/introduction/),
+  [Repo](https://github.com/halfmoonui/halfmoon/)
+  | #CSS
+
 - [**Blaze UI**](https://www.blazeui.com) - Open source modular toolkit providing great structure for building websites quickly with a scalable and maintainable foundation.  
   ![](https://img.shields.io/github/stars/BlazeUI/blaze.svg?style=social&label=Star)
   [Demo](https://www.blazeui.com/components/buttons/),
